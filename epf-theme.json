@@ -1,7 +1,7 @@
 {
-    "room":                     "NC 331",
-    "author":                   "Created by greySynapse and donvoo, Maintained by PixelBreeze & TheBanHammer",
-    "css":                      "https://cdn.bssecure.net/nc-themes/plug-themes/nc331-theme.css",
+    "room":                     "EPF 001",
+    "author":                   "Created by greySynapse and donvoo, Maintained by PixelBreeze & TheBanHammer\n Creditos a ellos.",
+    "css":                      "https://github.com/MATIAS51PLUG/prueba/edit/master/epf-theme.json",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
